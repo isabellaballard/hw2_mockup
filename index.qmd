@@ -1,0 +1,19 @@
+---
+title: "HW2 App Design"
+author: "Isabella Ballard"
+format: html
+---
+
+## Basic Description/Functionality
+
+This app would allow the user to upload their own image, select a k-value for image compression, and see their original image next to the new compressed image. The app would also return the approximation error, and the user can reset the image or choose a new k-value. 
+
+## Design/Look
+
+I would design this app to be simple and easy for the user to use. The top prompts the user to upload a file with their image. Underneath the prompt, the user can see both images to compare them easily. The k-value will automatically be 10 unless the user decides otherwise, which they can change underneath the side-by-side images. Directly under the compressed image the user can see the k-value and the approximation error. Underneath these values, the user can choose to reset the image or choose a new k-value.
+
+## Mockup
+
+Here is a basic design I made for the app: 
+![](HW2_mockup.png)
+
